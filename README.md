@@ -1,5 +1,5 @@
 [![Docker Stars](https://img.shields.io/docker/stars/fxmartin/docker-homebridge.svg)](https://hub.docker.com/r/fxmartin/docker-homebridge/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/fxmartin/docker-homebridge.svg)](https://hub.docker.com/r/fxmartin/docker-homebridge/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/fxmartin/docker-homebridge.svg)](https://hub.docker.com/r/fxmartin/docker-homebridge/) [![](https://images.microbadger.com/badges/image/fxmartin/docker-homebridge.svg)](https://microbadger.com/images/fxmartin/docker-homebridge "Get your own image badge on microbadger.com")
 [![GitHub forks](https://img.shields.io/github/forks/fxmartin/docker-homebridge.svg?style=social&label=Fork)](https://github.com/fxmartin/docker-homebridge)
 # docker-homebridge
 
@@ -96,4 +96,4 @@ moved to jessie:latest
 ###0.16
 added debug run command to homebridge.sh
 ###0.17
-added debug details in README.md
+added debug details in README.md 
